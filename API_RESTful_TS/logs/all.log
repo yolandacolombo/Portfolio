@@ -1,0 +1,16 @@
+2025-10-21 13:14:33:1433 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:15:35:1535 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-10-21 13:15:35:1535 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:15:57:1557 - [31merror[39m: [31mNão foi possível conectar![39m
+2025-10-21 13:15:57:1557 - [31merror[39m: [31mErro Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.vedfosx.mongodb.ne[39m
+2025-10-21 13:15:57:1557 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:16:01:161 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-10-21 13:16:01:161 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:16:24:1624 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-10-21 13:16:24:1624 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:19:16:1916 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-10-21 13:19:16:1916 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:25:11:2511 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-10-21 13:25:11:2511 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
+2025-10-21 13:25:38:2538 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-10-21 13:25:38:2538 - [32minfo[39m: [32mAplicação funcionando na porta: 3000[39m
